@@ -3,6 +3,14 @@ Files for the [NHGRI Genomics Short Course](https://www.genome.gov/careers-train
 
 ## Introduction
 
+One of the most basic questions a microbiome researcher can ask is: “What is in my sample?” There are lots of ways you can answer that question and the method you choose will determine how much biological detail you can resolve. While the microbiome refers to the collection of bacteria, fungi, viruses, protists and metazoans in a sample; Researchers are often specifically interested in the bacterial component. Identification of bacteria is based on a taxonomic hierarchy. For instance, most people are familiar with the bacteria Escherichia coli. The bacteria *E. coli* is in the family Enterobacteriaceae and the phylum Proteobacteria; here is the full taxonomic hierarchy for *E. coli*:
+
+**Bacteria (Kingdom); Proteobacteria (Phylum); Gammaproteobacteria (Class); Enterobacterales (Order); Enterobacteriaceae (Family); Escherichia (Genus); Escherichia coli (Species)**
+
+While taxonomic levels often stop at “species”, there are additional taxonomic levels that allow scientists to categorize bacteria in finer detail (e.g., strains). The level of detail you can get from a microbiome experiment depends on the experimental method, see [Maiden et al, Nature Reviews 2013](https://www.ncbi.nlm.nih.gov/pubmed/?term=23979428).
+
+The files below are part of a larger lesson plan to expose students to microbiome sequences using [16S rRNA](https://en.wikipedia.org/wiki/16S_ribosomal_RNA) sequences. Please visit [NHGRI Genomics Short Course](https://www.genome.gov/careers-training/Professional-Development-Programs/NHGRI-Short-Course-in-Genomics) for the full lesson plan.
+
 ## Files
 
 - [FASTA](https://en.wikipedia.org/wiki/FASTA) sequence files: ba04826.sub100.fasta, st06686.sub100.fasta, to10842.sub100.fasta, vf03604.sub100.fasta, DOK03.fasta

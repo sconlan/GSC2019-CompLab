@@ -1,2 +1,31 @@
 # GSC2019-CompLab
 Files for the NHGRI Genomics Short Course - Microbiome - Computational Lab
+
+**Key**
+
+**ba04826.sub100.fasta**
+
+These sequences are from the skin, specifically the back. Students should be able to
+tell that this is a skin site because it is 97% Actinobacteria. The back, in particular,
+is considered an oily site and is dominated by the bacterial genus "Propionibacteria"
+(also called Cutibacteria)
+
+**st06686.sub100.fasta**
+
+The sequences are from the stool. The dominance of Bacteroidetes (22%) and Firmicutes (74%)
+is how you know.
+
+**to10842.sub100.fasta**
+
+This is the mouth (Tongue). Streptococcus (29%) is a common mouth bacterial genus.
+
+**vf03604.sub100.fasta**
+
+Skin, forearm. Again, you can tell it is skin because of the dominant Actinobacteria (63%).
+Unlike the back, the forearm is considered more of a dry site and shows more diversity
+of bacterial genera.
+
+----
+
+**DOK03.fasta** is a published Agricultural soil microbiome. Included here as an example to
+work in class. It has 1904 sequences.

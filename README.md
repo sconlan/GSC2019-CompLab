@@ -1,6 +1,8 @@
 # GSC2019-CompLab
 Files for the [NHGRI Genomics Short Course](https://www.genome.gov/careers-training/Professional-Development-Programs/NHGRI-Short-Course-in-Genomics) - Microbiome - Computational Lab
 
+Now LIVE : [Microbiome Virtual Lab Exploration](https://www.genome.gov/careers-training/Professional-Development-Programs/NHGRI-Short-Course-in-Genomics/Microbiome-Lesson-Plans)
+
 ## Introduction
 
 One of the most basic questions a microbiome researcher can ask is: “What is in my sample?” There are lots of ways you can answer that question and the method you choose will determine how much biological detail you can resolve. While the microbiome refers to the collection of bacteria, fungi, viruses, protists and metazoans in a sample; Researchers are often specifically interested in the bacterial component. Identification of bacteria is based on a taxonomic hierarchy. For instance, most people are familiar with the bacteria Escherichia coli. The bacteria *E. coli* is in the family Enterobacteriaceae and the phylum Proteobacteria; here is the full taxonomic hierarchy for *E. coli*:
@@ -16,7 +18,7 @@ The files below are part of a larger lesson plan to expose students to microbiom
 - [FASTA](https://en.wikipedia.org/wiki/FASTA) sequence files: ba04826.sub100.fasta, st06686.sub100.fasta, to10842.sub100.fasta, vf03604.sub100.fasta, DOK03.fasta
 - DOK03_piechart.xlsx - Example pie chart derived from the DOK3 data. Note that piecharts are easy to make but aren't great for representing data (see https://en.wikipedia.org/wiki/Pie_chart)
 - nihms424103.pdf - Review paper by Grice and Segre
-- key.txt - Key desscribing each of the sequence files (also reproduced below)
+- key.txt - Key describing each of the sequence files (also reproduced below)
 
 ## How were the fasta files generated
 

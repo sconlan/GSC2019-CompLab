@@ -16,6 +16,7 @@ The files below are part of a larger lesson plan to expose students to microbiom
 ## Files
 
 - [FASTA](https://en.wikipedia.org/wiki/FASTA) sequence files: ba04826.sub100.fasta, st06686.sub100.fasta, to10842.sub100.fasta, vf03604.sub100.fasta, DOK03.fasta
+- RDP classifier results: ba_rdp_result.pdf, st_rdp_result.pdf, to_rdp_result.pdf, vf_rdp_result.pdf, DOK03_rdp_result.pdf
 - DOK03_piechart.xlsx - Example pie chart derived from the DOK3 data. Note that piecharts are easy to make but aren't great for representing data (see https://en.wikipedia.org/wiki/Pie_chart)
 - nihms424103.pdf - Review paper by Grice and Segre
 - key.txt - Key describing each of the sequence files (also reproduced below)
